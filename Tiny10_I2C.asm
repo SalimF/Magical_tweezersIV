@@ -3,7 +3,7 @@
 ;
 ; Created: 6/16/2016 10:28:45 AM
 ; Author : kodera2t
-;
+; I2C on Attiny10
 
 .def data = R16
 .def cnt = R17
